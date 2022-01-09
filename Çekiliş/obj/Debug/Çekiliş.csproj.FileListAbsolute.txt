@@ -1,0 +1,11 @@
+C:\Users\Melih\source\repos\Çekiliş\Çekiliş\bin\Debug\Çekiliş.exe.config
+C:\Users\Melih\source\repos\Çekiliş\Çekiliş\bin\Debug\Çekiliş.exe
+C:\Users\Melih\source\repos\Çekiliş\Çekiliş\bin\Debug\Çekiliş.pdb
+C:\Users\Melih\source\repos\Çekiliş\Çekiliş\obj\Debug\Çekiliş.Form1.resources
+C:\Users\Melih\source\repos\Çekiliş\Çekiliş\obj\Debug\Çekiliş.Properties.Resources.resources
+C:\Users\Melih\source\repos\Çekiliş\Çekiliş\obj\Debug\Çekiliş.csproj.GenerateResource.cache
+C:\Users\Melih\source\repos\Çekiliş\Çekiliş\obj\Debug\Çekiliş.csproj.CoreCompileInputs.cache
+C:\Users\Melih\source\repos\Çekiliş\Çekiliş\obj\Debug\Çekiliş.exe
+C:\Users\Melih\source\repos\Çekiliş\Çekiliş\obj\Debug\Çekiliş.pdb
+C:\Users\Melih\source\repos\Çekiliş\Çekiliş\obj\Debug\Çekiliş.csproj.AssemblyReference.cache
+C:\Users\Melih\source\repos\Çekiliş\Çekiliş\obj\Debug\Çekiliş.csproj.SuggestedBindingRedirects.cache
